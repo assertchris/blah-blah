@@ -1,5 +1,6 @@
 {
     "name": "blah/blah",
     "description": "Critical software, for details people.",
-    "license": "MIT"
+    "license": "MIT",
+    "minimum-stability": "stable"
 }
